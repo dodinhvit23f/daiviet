@@ -1,0 +1,8 @@
+git add . để thêm toàn bộ file
+git reset để xóa toàn bộ file vừa add mà chưa commit
+git rm --cached <added_file_to_undo>
+git commit (-a để thêm toàn bộ file đã thay đổi vào lần commit này) -m "thêm chú thích ở đây ví dụ thêm file nào, viết lại file nào v.v" (cái này bắt buộc phải có)
+	---- và cái này là lệnh lưu lại trên local không đẩy lên server git 
+git status để kiểm tra trang thái xem file nào chưa được commit cũng như vừa thêm vào
+git push để đẩy lên server git.
+git pull . để lấy code từ server git về  LƯU Ý: trước khi pull về phải commit code tránh việc mất code 

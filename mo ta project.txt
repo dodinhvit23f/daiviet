@@ -1,0 +1,7 @@
+--- Asset noi chứa các scrpit và ảnh
+	|--- Animation: nơi chứa các hoạt ảnh của các nhân vật ( chia rõ theo thư mục)
+	|--- Picture:	nơi chứa các hình ảnh...
+	|--- Scenes:	nơi chứa các cảnh.
+	|--- Script:	nơi chứa các file *.cs
+	|--- Sound:		nơi chứa các tệp âm thanh
+	
